@@ -23,7 +23,7 @@ python lem2gtiff01b.py <LEMデータのパス名>
 となります。
 
 ## Install
-anacondaで環境を構築するのが手っ取り早いと思います。gdalの導入は<a href="https://www.kkaneko.jp/dblab/3dmap/trygeotiff.htmlhttps://www.kkaneko.jp/dblab/3dmap/trygeotiff.html">このサイト</a>などが参考になります。
+anacondaで環境を構築するのが手っ取り早いと思います。gdalの導入は<a href="https://www.kkaneko.jp/dblab/3dmap/trygeotiff.html">このサイト</a>などが参考になります。
 
 ## Licence
 [CC](https://creativecommons.org/licenses/by-nc/4.0/)
