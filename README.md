@@ -19,7 +19,7 @@ Python3系の環境で、numpy, pandas, gdalがインストールされている
 gdalが導入されたpythonのターミナル環境から下記のように行います。<BR>
 python lem2gtiff01b.py <LEMデータのパス名>
 例えば、lemfiles という名前のフォルダーにcsvとlemの複数のセットがある場合は<BR>
-<p>python lem2gtiff01.py lemfiles</p>
+<p>python lem2gtiff01.py lemfiles</p><BR>
 となります。
 
 ## Install
